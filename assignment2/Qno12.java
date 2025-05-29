@@ -18,6 +18,7 @@ public class Qno12 {
 			System.out.println(num+" is armstrong");
 		}else
 			System.out.println(num+" is not armstrong");
+		sc.close();
 	}
 
 }
